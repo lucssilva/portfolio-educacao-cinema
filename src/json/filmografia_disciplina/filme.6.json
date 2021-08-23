@@ -1,0 +1,79 @@
+{
+    "adult": false,
+    "backdrop_path": "/bC5IBexDB52A3jsOjTSbLgh4EWp.jpg",
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 31023,
+    "imdb_id": "tt0188030",
+    "original_language": "es",
+    "original_title": "La lengua de las mariposas",
+    "overview": "Começa uma nova etapa na vida do pequeno Moncho. Entra para a escola do povoado, onde tem aulas com o velho, sábio e amável professor Don Gregorio. Descobre por outras vias o sexo, o amor, a música. Um mundo deslumbrante se descortina ante seus olhos. Para manchar o aprendizado de Moncho, porém, chega a guerra pelo poder e o garoto entenderá que a mentira faz parte do jogo.",
+    "popularity": 7.992,
+    "poster_path": "/cKnzNCvKrgRpREHTuj2JODg21ZE.jpg",
+    "production_companies": [
+        {
+            "id": 10050,
+            "logo_path": "/SowPJ8W5Gy6OgyAFyWnv4KjcPo.png",
+            "name": "TVG",
+            "origin_country": "ES"
+        },
+        {
+            "id": 9335,
+            "logo_path": null,
+            "name": "Canal+ España",
+            "origin_country": "ES"
+        },
+        {
+            "id": 18332,
+            "logo_path": null,
+            "name": "Las Producciones del Escorpión S.L.",
+            "origin_country": ""
+        },
+        {
+            "id": 20295,
+            "logo_path": null,
+            "name": "Sociedad General de Televisión (Sogetel)",
+            "origin_country": ""
+        },
+        {
+            "id": 981,
+            "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+            "name": "TVE",
+            "origin_country": "ES"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+        }
+    ],
+    "release_date": "1999-09-24",
+    "revenue": 6000000,
+    "runtime": 96,
+    "spoken_languages": [
+        {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+        },
+        {
+            "english_name": "Latin",
+            "iso_639_1": "la",
+            "name": "Latin"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "A Língua das Mariposas",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 165
+}

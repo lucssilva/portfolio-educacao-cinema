@@ -1,0 +1,60 @@
+{
+    "adult": false,
+    "backdrop_path": "/bxY7ve1LP8atCIuvr4jeeJMmU4w.jpg",
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comédia"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "",
+    "id": 37165,
+    "imdb_id": "tt0120382",
+    "original_language": "en",
+    "original_title": "The Truman Show",
+    "overview": "Truman Burbank é um pacato vendedor de seguros que leva um vida simples com sua esposa Meryl Burbank. Porém algumas coisas ao seu redor fazem com que ele passe a estranhar sua cidade, seus supostos amigos e até sua mulher. Após conhecer a misteriosa Lauren, ele fica intrigado e acaba descobrindo que toda sua vida foi monitorada por câmeras e transmitida em rede nacional.",
+    "popularity": 37.034,
+    "poster_path": "/he9ef4H9RZmxB8pdUXIX9ib8aRh.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        },
+        {
+            "id": 258,
+            "logo_path": null,
+            "name": "Scott Rudin Productions",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1998-06-04",
+    "revenue": 264118201,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "No ar. Sem saber.",
+    "title": "O Show de Truman: O Show da Vida",
+    "video": false,
+    "vote_average": 8.1,
+    "vote_count": 13535
+}

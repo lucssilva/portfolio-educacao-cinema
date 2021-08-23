@@ -1,0 +1,93 @@
+{
+    "adult": false,
+    "backdrop_path": "/fzL28DKiE1ZBEZbzfb3Wohmo9Bl.jpg",
+    "belongs_to_collection": {
+        "id": 63043,
+        "name": "TRON",
+        "poster_path": "/cvFlDIfOwhYe4ouAAfdyq9E5zlZ.jpg",
+        "backdrop_path": "/o8NBfffQPE9tHTR9l7FuWbdVPHu.jpg"
+    },
+    "budget": 170000000,
+    "genres": [
+        {
+            "id": 12,
+            "name": "Aventura"
+        },
+        {
+            "id": 28,
+            "name": "Ação"
+        },
+        {
+            "id": 878,
+            "name": "Ficção científica"
+        }
+    ],
+    "homepage": "http://disney.go.com/tron/",
+    "id": 20526,
+    "imdb_id": "tt1104001",
+    "original_language": "en",
+    "original_title": "TRON: Legacy",
+    "overview": "Sam, filho do famoso programador de jogos de computador Kevin Flynn, é assombrado há muito tempo pelo misterioso desaparecimento do pai. Um sinal estranho leva Sam ao fliperama de Flynn, onde é puxado para dentro de um mundo cibernético, o mesmo em que seu pai está preso há 20 anos. Sem receio, o guerreiro Quorra, Kevin e Sam procuram escapar de um universo que, embora magnífico, é muito mais avançado e perigoso do que Kevin tinha imaginado.",
+    "popularity": 29.831,
+    "poster_path": "/mynTfFRQlomVQ2pvAPRpK2a4sxC.jpg",
+    "production_companies": [
+        {
+            "id": 76043,
+            "logo_path": "/9RO2vbQ67otPrBLXCaC8UMp3Qat.png",
+            "name": "Revolution Sun Studios",
+            "origin_country": "US"
+        },
+        {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 7161,
+            "logo_path": null,
+            "name": "LivePlanet",
+            "origin_country": ""
+        },
+        {
+            "id": 18713,
+            "logo_path": null,
+            "name": "Prana Studios",
+            "origin_country": ""
+        },
+        {
+            "id": 23791,
+            "logo_path": null,
+            "name": "Sean Bailey Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 76067,
+            "logo_path": null,
+            "name": "Kontsept Film Company",
+            "origin_country": ""
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2010-12-14",
+    "revenue": 400062763,
+    "runtime": 125,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "O jogo mudou",
+    "title": "Tron: O Legado",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 5652
+}

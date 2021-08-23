@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/zmVq7y63z8NewluK7MUBfTxuyvD.jpg",
+    "belongs_to_collection": null,
+    "budget": 6000000,
+    "genres": [
+        {
+            "id": 35,
+            "name": "Comédia"
+        }
+    ],
+    "homepage": "http://www.paramount.com/movies/ferris-buellers-day",
+    "id": 9377,
+    "imdb_id": "tt0091042",
+    "original_language": "en",
+    "original_title": "Ferris Bueller's Day Off",
+    "overview": "No último semestre do curso do colégio, estudante (Matthew Broderick) sente um incontrolável desejo de matar a aula e planeja um grande programa na cidade com a namorada (Mia Sara), seu melhor amigo (Alan Ruck) e uma Ferrari. Só que para poder realizar seu desejo ele precisa escapar do diretor (Jeffrey Jones) do colégio e de sua própria irmã (Jennifer Grey).",
+    "popularity": 22.054,
+    "poster_path": "/ca1D6Pz9pGxPtCSMUodM6jIfbSp.jpg",
+    "production_companies": [
+        {
+            "id": 4,
+            "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+            "name": "Paramount",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1986-06-11",
+    "revenue": 70136369,
+    "runtime": 103,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "A luta de um homem para pegar leve.",
+    "title": "Curtindo a Vida Adoidado",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 3609
+}

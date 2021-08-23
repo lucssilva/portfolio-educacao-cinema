@@ -1,0 +1,50 @@
+{
+    "adult": false,
+    "backdrop_path": "/glkCbTypII55PhdJXSW9g59UCxI.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentário"
+        }
+    ],
+    "homepage": "http://www.menino23.com.br/",
+    "id": 371961,
+    "imdb_id": "tt3121724",
+    "original_language": "pt",
+    "original_title": "Menino 23: Infâncias Perdidas no Brasil",
+    "overview": "As investigações do historiador Sidney Aguilar sobre tijolos marcados com a suástica nazista encontrados no interior do Brasil revelam a história de meninos órfãos e negros, vítimas de um projeto criminoso de eugenia. Aloisio Silva, o menino 23, sobreviveu para contar.",
+    "popularity": 2.027,
+    "poster_path": "/r5t8mWicHZg9yGTzpQVzGCYIe29.jpg",
+    "production_companies": [
+        {
+            "id": 13969,
+            "logo_path": "/vYbpU7yDkLvx4ehvOxuU5BTsFKi.png",
+            "name": "Globo Filmes",
+            "origin_country": "BR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        }
+    ],
+    "release_date": "2016-07-07",
+    "revenue": 0,
+    "runtime": 79,
+    "spoken_languages": [
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Menino 23: Infâncias Perdidas no Brasil",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 17
+}

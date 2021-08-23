@@ -1,0 +1,73 @@
+{
+    "adult": false,
+    "backdrop_path": "/azYxbfLlDPoBSnPjH7Y7Js4DphK.jpg",
+    "belongs_to_collection": {
+        "id": 1709,
+        "name": "Planeta dos Macacos (Original)",
+        "poster_path": "/8aevArLEJHLk7MUe8pY0nrF9ViD.jpg",
+        "backdrop_path": "/oTABoCZSsPdcnGeT558bp1iFmEG.jpg"
+    },
+    "budget": 5800000,
+    "genres": [
+        {
+            "id": 878,
+            "name": "Ficção científica"
+        },
+        {
+            "id": 12,
+            "name": "Aventura"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 28,
+            "name": "Ação"
+        }
+    ],
+    "homepage": "https://www.20thcenturystudios.com/movies/planet-of-the-apes-1968",
+    "id": 871,
+    "imdb_id": "tt0063442",
+    "original_language": "en",
+    "original_title": "Planet of the Apes",
+    "overview": "George Taylor, um astronauta americano, viaja por séculos em estado de hibernação. Ao acordar, ele e seus companheiros se vêem em um planeta dominado por macacos, no qual os humanos são tratados como escravos e nem mesmo tem o dom da fala.",
+    "popularity": 23.443,
+    "poster_path": "/wTYTjSUqdra9WKzp7w2aOwYDosS.jpg",
+    "production_companies": [
+        {
+            "id": 12943,
+            "logo_path": null,
+            "name": "APJAC Productions",
+            "origin_country": ""
+        },
+        {
+            "id": 25,
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "1968-02-07",
+    "revenue": 32589624,
+    "runtime": 108,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "O Planeta dos Macacos",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 2430
+}

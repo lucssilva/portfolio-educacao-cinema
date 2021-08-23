@@ -1,0 +1,61 @@
+{
+    "adult": false,
+    "backdrop_path": "/5dF4FNwM2qZIuF0WCUs5zvDGU2H.jpg",
+    "belongs_to_collection": null,
+    "budget": 2600000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "http://www.taarezameenpar.com/",
+    "id": 7508,
+    "imdb_id": "tt0986264",
+    "original_language": "hi",
+    "original_title": "Taare Zameen Par",
+    "overview": "É a história de uma criança que sofre com dislexia e custa a ser compreendida. O jovem Ishaan, não consegue acompanhar as aulas ou focar sua atenção, e é tratado com muita rudeza por seu pai. Após serem chamados pela escola, o pai decide levá-lo a um internato, atitude que leva o pequeno a entrar em depressão. Um professor substituto de artes, Nikumbh, logo percebe o problema de Ishaan, e entra em ação com seu plano para devolver a ele a vontade de viver.",
+    "popularity": 12.144,
+    "poster_path": "/wEHkOBcvEiNZpFU1O3HbZLoKSaE.jpg",
+    "production_companies": [
+        {
+            "id": 2140,
+            "logo_path": null,
+            "name": "Aamir Khan Productions",
+            "origin_country": "IN"
+        },
+        {
+            "id": 63997,
+            "logo_path": null,
+            "name": "PVR Pictures",
+            "origin_country": "IN"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "IN",
+            "name": "India"
+        }
+    ],
+    "release_date": "2007-12-21",
+    "revenue": 28430000,
+    "runtime": 165,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        },
+        {
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Toda Criança é Especial.",
+    "title": "Como Estrelas na Terra",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 695
+}

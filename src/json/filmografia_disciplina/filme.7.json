@@ -1,0 +1,43 @@
+{
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+        {
+            "id": 99,
+            "name": "Documentário"
+        }
+    ],
+    "homepage": "",
+    "id": 280755,
+    "imdb_id": "tt3733622",
+    "original_language": "pt",
+    "original_title": "Tarja Branca - A Revolução que Faltava",
+    "overview": "A partir dos depoimentos de adultos de gerações, origens e profissões diferentes, o documentário discorre sobre a pluralidade do ato de brincar, e como o homem pode se relacionar com a criança que mora dentro dele. Por meio de reflexões, o filme mostra as diferentes formas de como a brincadeira, ação tão primordial à natureza humana, pode estar interligada com o comportamento do homem contemporâneo e seu \"espírito lúdico\".",
+    "popularity": 0.6,
+    "poster_path": "/eB2VCNkLXkmIMX3DAjMtyUVWx1O.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        }
+    ],
+    "release_date": "2014-07-19",
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tarja Branca - A Revolução que Faltava",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 5
+}

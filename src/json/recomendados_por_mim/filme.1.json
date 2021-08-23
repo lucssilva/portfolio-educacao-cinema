@@ -1,0 +1,66 @@
+{
+    "adult": false,
+    "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+        {
+            "id": 18,
+            "name": "Drama"
+        },
+        {
+            "id": 36,
+            "name": "História"
+        }
+    ],
+    "homepage": "http://www.hiddenfigures.com",
+    "id": 381284,
+    "imdb_id": "tt4846340",
+    "original_language": "en",
+    "original_title": "Hidden Figures",
+    "overview": "Ano 1961, em plena Guerra Fria, Estados Unidos e União Soviética disputam a supremacia na corrida espacial ao mesmo tempo em que a sociedade norte-americana lida com uma profunda cisão racial, entre brancos e negros. Tal situação é refletida também na NASA, onde um grupo de funcionárias negras é obrigada a trabalhar a parte. É lá que estão Katherine Johnson (Taraji P. Henson), Dorothy Vaughn (Octavia Spencer) e Mary Jackson (Janelle Monáe), grandes amigas que, além de provar sua competência dia após dia, precisam lidar com o preconceito arraigado para que consigam ascender na hierarquia da NASA.",
+    "popularity": 61.407,
+    "poster_path": "/6A1Jn0tooQYgi2C8sNz5OaIW98C.jpg",
+    "production_companies": [
+        {
+            "id": 711,
+            "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+            "name": "Fox 2000 Pictures",
+            "origin_country": "US"
+        },
+        {
+            "id": 83024,
+            "logo_path": null,
+            "name": "Levantine Films",
+            "origin_country": "US"
+        },
+        {
+            "id": 7076,
+            "logo_path": "/8BFxn9NUWSgp0ndih569Gm62xiC.png",
+            "name": "Chernin Entertainment",
+            "origin_country": "US"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+        }
+    ],
+    "release_date": "2016-12-10",
+    "revenue": 230698791,
+    "runtime": 127,
+    "spoken_languages": [
+        {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+        }
+    ],
+    "status": "Released",
+    "tagline": "Genialidade não tem raça. Força não tem gênero. Coragem não tem limite.",
+    "title": "Estrelas Além do Tempo",
+    "video": false,
+    "vote_average": 8,
+    "vote_count": 7136
+}

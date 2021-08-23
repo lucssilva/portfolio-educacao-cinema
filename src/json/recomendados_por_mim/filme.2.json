@@ -1,0 +1,43 @@
+{
+    "adult": false,
+    "backdrop_path": "/xWW5Hg8GZLmCWNsCAx3VJIR7vz.jpg",
+    "belongs_to_collection": null,
+    "budget": 1500000,
+    "genres": [
+        {
+            "id": 16,
+            "name": "Animação"
+        }
+    ],
+    "homepage": "",
+    "id": 121025,
+    "imdb_id": "tt0136748",
+    "original_language": "pt",
+    "original_title": "Cassiopéia",
+    "overview": "O filme conta a história do planeta Ateneia, localizado na constelação de Cassiopeia, que um dia é atacado por invasores do espaço que começam a sugar sua energia vital. Um sinal de socorro é enviado para o espaço sideral pela astrônoma local, Liza, e recebido por quatro heróis que viajam através da galáxia para salvar o planeta. A ambientação sugere (também por inviabilidade técnica para se produzir árvores e outros elementos caóticos naturais) um ambiente completamente tomado pela artificialidade. Numa primeira análise, pode-se pensar que é uma ideia rasa, mas o formato da resposta ao ataque do \"predador gigante\" evidenciam uma abordagem biológica no roteiro, como se os habitantes liberassem \"anticorpos\" ou \"substâncias\" encapsuladas para defesa a partir de armazéns de emergência, contrastando com o formato estado-unidense, que evidentemente escolheria o míssil.",
+    "popularity": 0.734,
+    "poster_path": "/fVM6AzYC1RxfMoibDxyucAVNxal.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "BR",
+            "name": "Brazil"
+        }
+    ],
+    "release_date": "1996-04-01",
+    "revenue": 0,
+    "runtime": 80,
+    "spoken_languages": [
+        {
+            "english_name": "Portuguese",
+            "iso_639_1": "pt",
+            "name": "Português"
+        }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Cassiopéia",
+    "video": false,
+    "vote_average": 6,
+    "vote_count": 2
+}

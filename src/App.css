@@ -1,38 +1,73 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+* {
+    box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header img {
+    cursor: pointer;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.jumbotron--mylistbutton:hover, .jumbotron--watchbutton:hover {
+    opacity: 0.7;
 }
 
-.App-link {
-  color: #61dafb;
+.jumbotron--mylistbutton, .jumbotron--watchbutton {
+    opacity: 1;
+    transition: all ease 0.2s;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.jumbotron--mylistbutton:hover, .jumbotron--watchbutton:hover {
+    opacity: 0.7;
+}
+
+.row--item img {
+    width: 100%;
+    transform: scale(0.9);
+    transition: all ease 0.2s;
+}
+
+.row--item img:hover {
+    transform: scale(1);
+}
+
+.row--arrow-left, .row--arrow-right {
+    opacity: 0;
+    transition: all ease 0.2s;
+}
+
+.row:hover .row--arrow-left, .row:hover .row--arrow-right {
+    opacity: 1;
+}
+
+@media (max-width: 760px) {
+    .jumbotron {
+        height: 90vh;
+    }
+    .jumbotron--name {
+        font-size: 40px;
+    }
+    .jumbotron--info {
+        font-size: 16px;
+    }
+    .jumbotron--description {
+        font-size: 14px;
+        max-width: 100%;
+        margin-right: 30px;
+    }
+    .jumbotron--mylistbutton, .jumbotron--watchbutton {
+        font-size: 10px;
+    }
+    .jumbotron--genres {
+        font-size: 14px;
+    }
+    .row--arrow-left, .row--arrow-right {
+        opacity: 1;
+    }
 }
