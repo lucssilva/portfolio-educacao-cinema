@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/educacao-cinema/static/css/main.a4f0ee11.chunk.css",
+    "main.js": "/educacao-cinema/static/js/main.ab08b5a9.chunk.js",
+    "main.js.map": "/educacao-cinema/static/js/main.ab08b5a9.chunk.js.map",
+    "runtime-main.js": "/educacao-cinema/static/js/runtime-main.4a8c9aba.js",
+    "runtime-main.js.map": "/educacao-cinema/static/js/runtime-main.4a8c9aba.js.map",
+    "static/js/2.3d26e63f.chunk.js": "/educacao-cinema/static/js/2.3d26e63f.chunk.js",
+    "static/js/2.3d26e63f.chunk.js.map": "/educacao-cinema/static/js/2.3d26e63f.chunk.js.map",
+    "index.html": "/educacao-cinema/index.html",
+    "static/css/main.a4f0ee11.chunk.css.map": "/educacao-cinema/static/css/main.a4f0ee11.chunk.css.map",
+    "static/js/2.3d26e63f.chunk.js.LICENSE.txt": "/educacao-cinema/static/js/2.3d26e63f.chunk.js.LICENSE.txt",
+    "static/media/logo.916f76fc.png": "/educacao-cinema/static/media/logo.916f76fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a8c9aba.js",
+    "static/js/2.3d26e63f.chunk.js",
+    "static/css/main.a4f0ee11.chunk.css",
+    "static/js/main.ab08b5a9.chunk.js"
+  ]
+}
